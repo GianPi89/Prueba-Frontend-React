@@ -16,7 +16,7 @@ Aplicación basica front-end desarrollada en **React + Vite** que simula un fluj
 
 ## 📂 Estructura del proyecto.
 
-![alt text](image.png)
+<img width="222" height="326" alt="image" src="https://github.com/user-attachments/assets/abbccd16-c2c3-4e3a-8462-91e56856ae91" />
 
 ---
 
