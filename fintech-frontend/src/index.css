@@ -184,3 +184,28 @@ button:hover {
   font-size: 0.75rem;
   color: #f87171;
 }
+
+.movimientos h2 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.movimiento {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.8rem;
+  border-radius: 8px;
+  background: #020617;
+  margin-bottom: 0.6rem;
+  border: 1px solid #1e293b;
+}
+
+.positivo {
+  color: #22c55e;
+  font-weight: bold;
+}
+
+.negativo {
+  color: #ef4444;
+  font-weight: bold;
+}
